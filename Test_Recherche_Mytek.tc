@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test Recherche Mytek</name>
+   <name>Test Recherche mytek</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>e2503232-818c-4c06-a1bd-e18ab789f65d</testCaseGuid>
