@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test authentification cas non passant mdp invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a718064c-0baf-455b-ad63-180505608a02</testCaseGuid>
+</TestCaseEntity>

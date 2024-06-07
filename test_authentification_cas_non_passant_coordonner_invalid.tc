@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test authentification cas non passant coordonner invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e912b913-2455-4f01-86c9-727d350e876a</testCaseGuid>
+</TestCaseEntity>
